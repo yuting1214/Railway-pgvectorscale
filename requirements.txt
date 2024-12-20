@@ -2,3 +2,7 @@ sqlalchemy
 pgvector
 psycopg2-binary
 databases[asyncpg]
+llama-index
+llama-index-vector-stores-postgres
+llama-index-storage-docstore-postgres
+llama-index-storage-index-store-postgres
