@@ -2,7 +2,7 @@
 
 This template deploys a Postgres instance with `pgvectorscale`, building on pgvector with higher performance embedding search and cost-efficient storage for AI applications.
 
-[![Deploy on Railway](https://railway.app/button.svg)]()
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Erynbe?referralCode=jk_FgY)
 
 ## ✨ Features
 
