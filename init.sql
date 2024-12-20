@@ -1,5 +1,2 @@
-# Use the TimescaleDB pre-built image
-FROM timescale/timescaledb:latest-pg17
-
-# Add initialization scripts
-COPY init.sql /docker-entrypoint-initdb.d/
+-- Create the vectorscale extension (automatically installs pgvector)
+CREATE EXTENSION IF NOT EXISTS vectorscale CASCADE;
